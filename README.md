@@ -46,7 +46,7 @@ Installation on a normal laptop with good internet connection should only take a
 
 
 
-上述为loss of plasticity原本readme，根据上述内容完成后将三个文件分别替换，lop/rl/run_ppo.py，，lop/algos/rl/buffer.py，lop/algos/rl/ppo.py
+上述为loss of plasticity原本readme，根据上述内容完成后将三个文件分别替换，lop/rl/run_ppo.py，，lop/algos/rl/buffer.py，lop/algos/rl/ppo.py ，lop/nets/valuefs.py ，lop/nets/policy.py
 替换之后使用后续原本readme
 # Loss of plasticity in reinforcement learning
 
